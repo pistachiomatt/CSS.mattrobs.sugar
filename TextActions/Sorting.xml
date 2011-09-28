@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<action-sort-instructions>
+
+	<sort-template>
+		<selector>actions.text.css</selector>
+		<selector>*</selector>
+	</sort-template>
+	
+</action-sort-instructions>

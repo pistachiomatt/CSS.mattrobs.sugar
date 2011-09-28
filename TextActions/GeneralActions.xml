@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<action-recipes>
+	<!-- These actions are generally useful across all languages -->
+	
+	<!-- Lines menu -->
+
+	<action id="com.matthew.css.text-actions.insert-previous-parent" category="actions.CSS">
+		<script>dostuff.js</script>
+		<key-equivalent>option shift tab</key-equivalent>
+		<syntax-context>css, css *</syntax-context>
+	</action>
+		
+</action-recipes>

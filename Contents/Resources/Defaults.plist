@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TEADefaultToXHTML</key>
+	<true/>
+	<key>TEASelfClosingString</key>
+	<string> /</string>
+	<key>TEAEnableUserActions</key>
+	<false/>
+	<key>TEAConvertUserSnippetsToZen</key>
+	<false/>
+	<key>TEAZenAddSpaceCSSProperties</key>
+	<false/>
+	<key>TEAZenSettings</key>
+	<dict>
+		<key>variables</key>
+		<dict>
+			<key>lang</key>
+			<string>en</string>
+			<key>locale</key>
+			<string>en-US</string>
+			<key>charset</key>
+			<string>UTF-8</string>
+		</dict>
+	</dict>
+	<key>TEAShellVariables</key>
+	<array>
+		<dict>
+			<key>value</key>
+			<string>__MyCompanyName__</string>
+			<key>variable</key>
+			<string>E_ORGANIZATION_NAME</string>
+		</dict>
+	</array>
+	<key>TEADefaultZenAbbreviation</key>
+	<string>ul&gt;li*&gt;a</string>
+	<key>TEAGremlinsCntrlCharsChoice</key>
+	<integer>1</integer>
+	<key>TEAGremlinsNbspCharsChoice</key>
+	<integer>2</integer>
+	<key>RunScriptExtensionMap</key>
+	<dict>
+		<key>py</key>
+		<string>/usr/bin/python</string>
+		<key>rb</key>
+		<string>/usr/bin/ruby</string>
+		<key>php</key>
+		<string>/usr/bin/php</string>
+	</dict>
+</dict>
+</plist>
